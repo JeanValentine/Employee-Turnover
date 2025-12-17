@@ -105,3 +105,11 @@ salary: Salary in USD
   * Medium-Risk Zone (Orange) (60% < Score < 90%) 
 
   * High-Risk Zone (Red) (Score > 90%).
+
+# Output: 
+![OUTPUT](1.png)
+![OUTPUT](2.png)
+![OUTPUT](3.png)
+![OUTPUT](4.png)
+![OUTPUT](5.png)
+![OUTPUT](6.png)
